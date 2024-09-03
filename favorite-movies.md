@@ -5,3 +5,5 @@
 3. **Double Vision**: Personal favorite Chinese horror movie.
 4. **Mad Detective**: Personal favorite Hong Kong suspense movie.
 5. **Drug to Survive**: Very accurate movie.
+## Movie I Don't Like
+I really don't like Sharknado because it is nonsense.
